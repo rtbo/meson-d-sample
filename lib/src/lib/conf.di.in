@@ -1,0 +1,3 @@
+module lib.conf;
+
+enum libVersion = "@VERSION@";
